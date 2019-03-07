@@ -26,7 +26,7 @@ pip install -r requirements.txt
 Downloaded data will be in data/raw_data.
 
 **Output Variables:**
-z
+
 1.	All input variables in “cik_list.xlsx”
 2.	mda_positive_score
 3.	mda_negative_score
